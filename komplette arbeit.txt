@@ -1,0 +1,157 @@
+Shariffdeen Aadil Mohamed
+shariaad@students.zhaw.ch
+
+Anik Yasemin 
+anikyas1@students.zhaw.ch
+
+Fehlmann Marla 
+fehlmma4@students.zhaw.ch
+
+Mitrovic Nikola 
+mitronik@students.zhaw.ch
+
+PostFinance Employer Branding
+Forschungsfrage: Wie kann die Employer Value Proposition der PostFinance gezielt auf die Bedürfnisse von IT-Fachkräften ausgerichtet werden, um die Arbeitgeberattrak-tivität im Technologiebereich zu steigern?
+
+
+
+
+
+Department: School of Management and Law (SML)
+Modulname: w.BA.XX.WPM-HCMA.XX
+Dozent: Konrad Rietmann
+Einreiche Datum: 07.12.2025
+Semester: Herbst 2025
+Inhaltsverzeichnis
+1	Einleitung	3
+2	Problemstellung, Forschungsfrage und Abgrenzungen	4
+2.1	Forschungsfrage	4
+2.2	Abgrenzung der Untersuchung	4
+3	Stand der Forschung	5
+3.1	Implikationen für die operative Umsetzung und Zukunftstrends	9
+4	Methode	11
+4.1	Vorstellen Unternehmen	11
+4.2	Datenerhebung und Auswertungsvorgehen	11
+5	Ergebnisse	13
+5.1	Analyse bestehendes Employer Branding	13
+5.2	Interview-Ergebnisse	13
+5.2.1	Eindruck und Wahrnehmung des Arbeitgebers	14
+5.2.2	Arbeitsbedingungen und Entwicklungsmöglichkeiten	14
+5.2.3	Kommunikation, Sichtbarkeit und Recruiting	14
+5.2.4	Herausforderungen und Verbesserungspotenziale	15
+5.2.5	Digitalisierung, Innovation und Zukunftsaussichten	16
+5.2.6	Persönliche Motivation und Bindung	16
+5.3	Synthese der Ergebnisse	17
+6	Diskussion der Ergebnisse	18
+7	Handelsempfehlung	20
+8	Literaturverzeichnis	23
+9	Selbständigkeitserklärung	29
+
+1	Einleitung
+Der Arbeitsmarkt ist zunehmend vom Fachkräftemangel geprägt, was Unternehmen in einen intensiven Wettbewerb um qualifizierte Mitarbeitende zwingt (Hammer & Krahnhof, 2025, S. 54). Betroffen ist auch der Schweizer Finanzsektor, in dem die PostFinance tätig ist. Employer Branding gewinnt in diesem Kontext an Bedeutung, da eine klar positionierte Arbeitgebermarke wesentlich zur Gewinnung und Bindung von Talenten beiträgt (Hammer & Krahnhof, 2025, S. 55; Pommerening, 2024, S. 35–37). Der Engpass ist im IT-Bereich besonders ausgeprägt, Europaweit bestehen deutlich mehr offene IT-Stellen als verfügbare Fachkräfte (Aksenova et al., 2025).
+Obwohl PostFinance eine definierte Employer Value Proposition (EVP) kommuniziert, zeigen unbesetzte IT-Stellen sowie der verstärkte Einsatz von Nearshoring, dass die aktuellen Massnahmen die Bedürfnisse von IT-Fachkräften nur teilweise adressieren (PostFinance, 2023, 2025a, 2025b, 2025c). Dies unterstreicht die strategische Bedeu-tung eines zielgruppenspezifischen Employer Brandings für den technologischen Be-reich. Nur wenn zentrale Werte wie Flexibilität, Innovationsorientierung und techni-sche Exzellenz glaubwürdig vermittelt werden, kann PostFinance im Wettbewerb um IT-Talente bestehen und deren langfristige Bindung sichern (Thang & Trang, 2024, S. 1–8). Eine starke Arbeitgebermarke stärkt zudem Motivation, Loyalität und Innovati-onsfähigkeit, was insbesondere in wissensintensiven IT-Teams entscheidend ist (Bind-hya & Harikumar, 2020, S. 1–3)
+Vor diesem Hintergrund untersucht die vorliegende Arbeit, wie die Employer Value Proposition der PostFinance weiterentwickelt werden kann, um den funktionalen und kulturellen Bedürfnissen von IT-Fachkräften besser zu entsprechen. Ziel ist es, durch eine qualitative Analyse der Arbeitgeberwahrnehmung zentrale Verbesserungspotenzi-ale zu identifizieren und Handlungsempfehlungen für ein wirkungsvolleres Employer Branding im Technologiebereich abzuleiten.
+ 
+2	Problemstellung, Forschungsfrage und Abgrenzungen
+Die strategische Herausforderung liegt in der Diskrepanz zwischen der allgemein posi-tiven Arbeitgebermarke und der erschwerten Rekrutierung im IT-Bereich. Der Bedarf an Nearshoring verdeutlicht, dass die aktuelle EVP für IT-Fachkräfte nicht ausreichend differenziert wirkt (PostFinance, 2023, 2025c). Um die Arbeitgeberattraktivität im Technologiesektor zu steigern, sind gezielte Anpassungen erforderlich.
+2.1	Forschungsfrage
+Aus dieser Problematik ergibt sich folgende Forschungsfrage:
+Wie kann die Employer Value Proposition der PostFinance gezielt auf die Bedürfnisse von IT-Fachkräften ausgerichtet werden, um die Arbeitgeberattraktivität im Technolo-giebereich zu steigern?
+Unterfragen:
+1.	Wie nehmen IT-Fachkräfte das aktuelle Employer Branding der PostFinance wahr?
+2.	Welche Stärken und Schwächen ergeben sich aus dieser Perspektive?
+3.	Welche Elemente der EVP entsprechen nicht den funktionalen und kulturellen Er-wartungen der Zielgruppe?
+4.	Über welche Kommunikationskanäle und Botschaften kann PostFinance IT-Fachkräfte authentisch erreichen?
+2.2	Abgrenzung der Untersuchung 
+Die Analyse fokussiert auf strategische Aspekte des Human Capital Marketings und des Employer Brandings. Operative Rekrutierungsprozesse sowie quantitative Kenn-zahlen wie der ROI werden nicht betrachtet. Im Zentrum stehen die qualitative Ein-schätzung der Arbeitgeberattraktivität aus Sicht von IT-Fachkräften und die daraus abgeleiteten Empfehlungen. Vergleiche mit anderen Finanzinstituten erfolgen nicht; als Benchmark dient die IT-Branche.  
+3	Stand der Forschung 
+In einem von intensivem Wettbewerb und Fachkräftemangel geprägten Umfeld, oft als "War for Talent" bezeichnet, hat sich Employer Branding von einer optionalen Mass-nahme zu einer strategischen Notwendigkeit für Unternehmen entwickelt (Verma et al., 2024). Die hohe Fluktuation im IT-Sektor, die in jüngster Zeit als "Great Resignati-on" bezeichnet wird, macht die Mitarbeiterbindung zu einer zentralen unternehmeri-schen Herausforderung (Sridevi & Reddy, 2023).
+Als zentraler Lösungsansatz gilt die Employer Value Proposition (EVP), die als Ge-samtpaket der Arbeitgeberleistungen verstanden wird (Munazza & Nemat, 2025). Um-fassende Modelle gliedern die EVP in bis zu acht Dimensionen, die sowohl extrinsi-sche (z.B. Gehalt) als auch intrinsische (z.B. Arbeitsumfeld) Motivationsfaktoren um-fassen (Bronlet et al., 2024; Sarabdeen et al., 2023). Ihre Wirksamkeit entfaltet die EVP, indem sie über organisationales Commitment die Mitarbeiterbindung und schliesslich die Unternehmensleistung steigert (Azhar et al., 2024; Munazza & Nemat, 2025).
+Speziell im IT-Sektor erweisen sich eine flexible Work-Life-Balance und Autonomie als entscheidend, während sogenannter "Technostress" eine wachsende Belastung dar-stellt (Anamta & Siddiqui, 2025). Neuere Forschung konzeptualisiert das Wohlbefin-den von IT-Fachkräften daher als multidimensionales Konstrukt, das über hedonische Zufriedenheit hinausgeht und eudaimonische Bedürfnisse wie Sinnhaftigkeit, Wachs-tum und psychologisches Empowerment in den Mittelpunkt stellt (Godliauskas & Šmite, 2025; Panda & Sahoo, 2021).
+Diese eudaimonischen Aspekte sind besonders für die werteorientierte Generation Z relevant, für die Nachhaltigkeit (ESG) und soziale Verantwortung zentrale Attraktivi-tätsfaktoren sind (Mazur, 2025; Vieira et al., 2024). Als entscheidender Umsetzungs-hebel für ein solches Umfeld gilt der authentische Führungsstil, der durch wahrge-nommene Unterstützung ("Perceived Supervisor Support") eine psychologische Bin-dung schafft (Džambić & Hadziahmetovic, 2025). Grundlegend dafür ist die organisa-tionale Gerechtigkeit, wobei die interpersonale Fairness – das Gefühl, mit Respekt behandelt zu werden – den stärksten Einfluss auf die Arbeitszufriedenheit hat (Sesari et al., 2025).
+Die Authentizität einer EVP wird im digitalen Zeitalter unweigerlich transparent, da die "gelebte Erfahrung" der Mitarbeitenden über externe Plattformen ("Third-Party Employer Branding") die externe Reputation massgeblich prägt (Dassler et al., 2022; Saini, 2023). Besonders in Krisenzeiten erweist sich die interne Perspektive als ent-scheidend, da zufriedene Mitarbeitende zu den glaubwürdigsten Markenbotschaftern werden (Rys et al., 2024; Thao et al., 2024). Moderne Rekrutierungsstrategien setzen daher auf einen Mix aus Technologie, wie KI und Social Media, und einer positiven "Candidate Experience", müssen aber Risiken wie algorithmische Voreingenommen-heit aktiv managen (Ajayi & Udeh, 2024; Thang & Trang, 2024).  
+Die jüngste Forschung postuliert "Hoffnung" als nächste Stufe der EVP, die über reine Zufriedenheit hinausgeht und durch die Förderung von Sinnhaftigkeit, Wachstum und Empowerment eine inspirierende Zukunftsperspektive bietet (Altizer & Ulrich, 2024). 
+ 
+4	Methode
+4.1	Vorstellen Unternehmen
+Die PostFinance ist ein führender Finanzdienstleister der Schweiz sowie Teil der Schweizerischen Post. Sie beschäftigt rund 3900 Mitarbeitende und bietet Kernleis-tungen wie Zahlungsverkehr, Kontoführung und Vermögensverwaltung an, ergänzt durch digitale Services wie Online-Banking (PostFinance, 2024, S. 34–38).
+Die IT spielt dabei eine zentrale Rolle für Digitalisierung, Prozessoptimierung und den Betrieb zentraler Systeme. Im Employer Branding positioniert sich PostFinance als vertrauensbasierter und moderner Arbeitgeber mit Gestaltungsspielraum und flexiblen Arbeitsmodellen (PostFinance, 2025b, 2025a).
+4.2	Datenerhebung und Auswertungsvorgehen
+Zur Beantwortung der Forschungsfragen werden primäre Daten durch Interviews sowie eine ergänzende Literaturrecherche erhoben. Die Literatur bildet die theoretische Grundlage und umfasst zentrale Konzepte aus Employer Branding, Talent Relationship Management und IT-Fachkräftemangel.
+Als analytischer Rahmen dient das HC-Marketing-Modell nach Meyer-Ferreira (2015, S. 83–114), das die Bewertung der Arbeitgeberattraktivität ermöglicht und Stärken sowie Schwächen der aktuellen Strategie aufzeigt.
+Die primären Datenerhebung erfolgt qualitativ mittels drei Interviews, welche die un-terschiedlichen Stakeholder-Perspektiven abbilden sollen. Die Interviewleitfäden ba-sieren auf der Literaturrecherche sowie an der Studie von Oehlhorn et al. (2024), wel-che den Kano-Ansatz auf den Employer Branding Kontext überträgt. Die Interviews werden über Microsoft Teams durchgeführt, aufgezeichnet und anschliessend transkri-biert. 
+Die Befragung umfasst die folgenden Stakeholder:
+•	einen Employer-Branding-Experten aus dem PostFinance HR-Team, zur Analyse der aktuellen Strategie,
+•	einen IT-Mitarbeitenden zur Bewertung der innerbetrieblichen Markenwahrneh-mung,
+•	sowie einer arbeitssuchenden IT-Fachkraft zur Einschätzung der externen Arbeit-geberattraktivität.
+Die Auswertung erfolgt in Form einer qualitativen Inhaltsanalyse nach Mayring & Frenzl (2019). Dabei werden die Aussagen der Befragten miteinander abgeglichen, um Übereinstimmungen und Abweichungen zwischen der bestehenden Arbeitgeberpositio-nierung von PostFinance und den Bedürfnissen der Zielgruppe zu erkennen. Darauf aufbauend werden gezielte Handlungsempfehlungen zur Weiterentwicklung des Employer Brandings im IT-Bereich formuliert .   
+ 
+5	Ergebnisse
+5.1	Analyse bestehendes Employer Branding
+Wie in Kapitel 5.1 dargestellt, positioniert sich PostFinance als Arbeitgeber, der Ver-trauen, Diversität und Gestaltungsspielraum fördert und gleichzeitig flexible Arbeits-zeitmodelle, Homeoffice-Möglichkeiten und umfangreiche Zusatzleistungen bietet (PostFinance, 2025a, 2025b).
+Die EVPs umfassen folgende Bereiche
+Kategorie	Inhalt der EVP
+Flexible Arbeitsmodelle	Gleitzeit, Homeoffice, Teilzeitmöglichkeiten
+Ferienregelung	6 Wochen bezahlter Urlaub; Option auf unbezahlten Urlaub
+Entlohnung	Faire, funktions- und erfahrungsbasierte Löhne; Lohngleichheit
+Zusatzleistungen	Vergünstigungen auf PostFinance-Dienstleistungen, ÖV-Abos, Fitness, Krankenkasse, Kulturangebote
+Arbeitsumfeld	Moderne, ergonomische Arbeitsplätze
+Aus- und Weiterbildung	On-the-job-Learning, E-Learning, Präsenzschulungen, finanzielle Unter-stützung bei externen Weiterbildungen
+Gesundheitsmanagement	Prävention, ergonomische Arbeitsplätze, Fitnessvergünstigungen, Füh-rungskräfteschulungen, Case Management
+Tabelle 1: EVPs PostFinance (PostFinance, 2025b)
+Die EVPs zeigen ein bereits starkes Employer Branding. Werte wie Diversität, Ver-trauen und flexible Modelle gelten laut Forschung als zentrale Erfolgsfaktoren zur Stärkung der Arbeitgebermarke (Bronlet et al., 2024; Pommerening, 2024). Da Emplo-yer Branding jedoch ein kontinuierlicher Prozess ist, müssen Angebote regelmässig an Markt- und Zielgruppenbedürfnisse angepasst werden (Dassler et al., 2022; Saini, 2023). Die Rekrutierungsprobleme im IT-Bereich bestätigen den allgemeinen Fach-kräftemangel, können aber auch andeuten, dass IT-Fachkräfte sich dadurch nicht ange-sprochen fühlen oder nie in Kontakt mit den EVPs kommen.
+5.2	Interview-Ergebnisse
+Zur Erfassung der wahrgenommenen Arbeitgebermarke wurden drei Interviews ge-führt: mit einem HR-Mitarbeitenden, einem IT-Angestellten sowie einer arbeitssu-chenden IT-Fachkraft. Die folgenden Abschnitte fassen die jeweiligen Sichtweisen zu-sammen.
+5.2.1	Eindruck und Wahrnehmung des Arbeitgebers 
+Die Interviews zeigen, dass PostFinance intern als attraktiver Arbeitgeber wahrge-nommen wird. Der HR-Experte hebt Werte wie «Swissness», flache Hierarchien und eine kollegiale Unternehmenskultur hervor (Persönliche Kommunikation, 3. Novem-ber 2025). Ein IT-Mitarbeitender beschreibt die Arbeitsatmosphäre ebenfalls als unter-stützend und stabil, selbst in der aktuell wirtschaftlich herausfordernden Phase (Per-sönliche Kommunikation, 14. November 2025). Der IT-Job-Suchende nimmt das Un-ternehmen hingegen ambivalenter wahr: Moderne Initiativen werden anerkannt, gleichzeitig wirkt die Unternehmenskultur aus seiner Sicht teilweise stark formalisiert, was die Glaubwürdigkeit von Innovationsprojekten mindert (Persönliche Kommunika-tion, 16. November 2025).
+5.2.2	Arbeitsbedingungen und Entwicklungsmöglichkeiten 
+Flexible Arbeitsmodelle, moderne Arbeitsumgebungen und Weiterbildungsangebote werden intern als klare Stärken wahrgenommen. Gleichzeitig wird die Transparenz von Karrierewegen als unzureichend beurteilt (Persönliche Kommunikation, 3. November 2025). Der IT-Mitarbeitende bestätigt diese Einschätzung: Das Weiterbildungsangebot sei grundsätzlich positiv, jedoch fehle es an Sichtbarkeit und Struktur. Entwicklungs-prozesse seien nicht klar definiert, weshalb Mitarbeitende sich selbst aktiv informieren müssten. Er wünscht sich insbesondere transparente Karrierepfade sowie stärkere Un-terstützung bei der individuellen Weiterentwicklung (Persönliche Kommunikation, 14. November 2025).
+Für den IT-Job-Suchenden stehen hingegen spannende Projekte, moderne Technologien und Gestaltungsfreiheit im Vordergrund. Lohn und Pendelzeit sind für ihn weniger entscheidend. Zudem hebt er den technologischen Stand hervor: Ein gewisser Anteil an Legacy-Systemen sei akzeptabel, jedoch nur, wenn moderne Technologien im Einsatz seien. Er bevorzugt eine offene Kultur, flache Hierarchien sowie ein hybrides Arbeits-modell mit Homeoffice und ein bis zwei Präsenztagen zur Förderung des Teamgefühls. Eine hohe Meetinglast und Bürokratie bewertet er als hinderlich (Persönliche Kom-munikation, 16. November 2025).
+5.2.3	Kommunikation, Sichtbarkeit und Recruiting 
+Intern nutzt PostFinance Kanäle wie LinkedIn, Blogbeiträge, Hackathons, Tech-Talks und Botschafterprogramme, um IT-Fachkräfte anzusprechen. Kampagnen richten sich insbesondere an Frauen und die Generation Z. Persönliche Kontakte und eine positive Candidate Experience werden als zentrale Elemente im Recruiting betrachtet (Persön-liche Kommunikation, 3. November 2025). Der IT-Mitarbeitende bestätigt, dass per-sönliche Begegnungen – etwa an Hackathons – besonders wirksam sind. Digitale Kommunikation sieht er als ergänzend, jedoch nicht ausreichend (Persönliche Kom-munikation, 14. November 2025).
+Der IT-Job-Suchende betont insbesondere die Bedeutung authentischer technischer Kanäle wie GitHub, Open-Source-Communities oder Entwicklerforen. Diese würden von High-Talent-IT-Fachkräften aktiv genutzt und ermöglichten einen realistischen Einblick in die technische Ausrichtung eines Unternehmens. LinkedIn empfindet er als weniger wirksam; Auf Social-Media geschaltete Stellenanzeigen wirken auf ihn eher «verzweifelt» – wäre die Stelle wirklich so begehrt wie etwa bei Google, müssten Un-ternehmen nicht auf Instagram nach Kandidaten suchen, sondern Bewerbende würden um die Position konkurrieren, meint er (Persönliche Kommunikation, 16. November 2025).
+5.2.4	Herausforderungen und Verbesserungspotenziale 
+Der IT-Fachkräftemangel wird intern als zentrale Herausforderung eingestuft. Budget-kürzungen und regulatorische Vorgaben schränken den Innovationsspielraum ein, wer-den jedoch als typische Rahmenbedingungen akzeptiert. Nearshoring wird sowohl als Chance als auch als Herausforderung wahrgenommen. Besonders wichtig sei die kultu-relle Integration der ausländischen Kolleginnen und Kollegen sowie die Sicherstellung, dass Schweizer Teammitglieder Nearshoring als Unterstützung und nicht als Bedro-hung verstehen (Persönliche Kommunikation, 3. November 2025; 14. November 2025).
+Der IT-Angestellte ergänzt, dass Nearshoring-Mitarbeitende sich auch kulturell mit PostFinance identifizieren können müssen (Persönliche Kommunikation, 27. Novem-ber 2025). Für externe IT-Fachkräfte sind insbesondere Unternehmenskultur, Innovati-onsbereitschaft und technische Freiheiten entscheidend. Fehlende Offenheit und rigide Strukturen können selbst interessante Projekte unattraktiv machen. Ein Unternehmen in einem stark regulierten Umfeld müsse echte Agilität ermöglichen, die über formale Scrum-Strukturen hinausgeht, und praktische Flexibilität bieten, um attraktiv zu wir-ken (Persönliche Kommunikation, 16. November 2025).
+5.2.5	Digitalisierung, Innovation und Zukunftsaussichten 
+Digitalisierung und KI werden intern vor allem als Chance zur Effizienzsteigerung und Innovationsförderung verstanden. PostFinance nutzt hierfür unter anderem einen eige-nen Techradar sowie Cloud-Lösungen, wobei Datenschutz und regulatorische Vorgaben klare Rahmenbedingungen setzen (Persönliche Kommunikation, 3. November 2025). Der IT-Mitarbeitende betont zusätzlich die Bedeutung von Transparenz, Lernbereit-schaft und offener Kommunikation, um Unsicherheiten im Umgang mit neuen Techno-logien zu reduzieren (Persönliche Kommunikation, 14. November 2025).
+Der IT-Job-Suchende erwartet eine authentische, technisch fundierte Weiterentwick-lung. Er steht modernen Technologien offen gegenüber, fordert jedoch eine glaubwür-dige, nachvollziehbare technologische Zukunftsstrategie. Innovation werde erst dann attraktiv, wenn sie reale Herausforderungen adressiere und nicht lediglich bestehende Systeme modernisiere (Persönliche Kommunikation, 16. November 2025).
+5.2.6	Persönliche Motivation und Bindung 
+Das HR verfolgt das Ziel, langfristige Bindung durch kollegiale Kultur, Entwick-lungsmöglichkeiten und zentrale Werte wie Verantwortung und offene Kommunikation zu fördern. Programme zur internen Mobilität sollen diese Ziele unterstützen (Persön-liche Kommunikation, 3. November 2025). Der IT-Mitarbeitende sieht die fachlichen Herausforderungen sowie die kollegiale Kultur als zentrale Motivatoren. Gleichzeitig wünscht er sich mehr Möglichkeiten, über das Tagesgeschäft hinaus in neue Projekte eingebunden zu werden, sowie klarere Entwicklungswege, um seine langfristige Bin-dung zu stärken (Persönliche Kommunikation, 14. November 2025).
+Der IT-Job-Suchende betont, dass seine Erwartungen oftmals eher von reinen Tech-Unternehmen erfüllt werden, da diese flexibler arbeiten, innovativere Projekte anbie-ten und eine technisch geprägte Kultur pflegen. IT-Fachkräfte seien häufig auch privat aktiv in Bereichen wie GitHub oder Hackathons. Der Finanzsektor sei daher, mit Aus-nahme des Fintech-Bereichs, weniger attraktiv. Für eine langfristige Bindung seien flache Hierarchien, Experimentiermöglichkeiten und eine authentische technische Kul-tur entscheidend. Obwohl ihm im Interview die EVPs sowie ein konkretes Stellenan-gebot vorgestellt wurden, betont er, dass eine Bewerbung für ihn aktuell nur als «Not-lösung» infrage käme (Persönliche Kommunikation, 16. November 2025).
+ 
+5.3	Synthese der Ergebnisse
+Thema	HR / IT intern	IT-Job-Suchende	Zentrale Erkenntnis
+Unterneh-menskultur	Kollegial, flache Hierar-chien, gelebte Werte	muss im Alltag spürbar sein (wenig Bürokratie, echte Agili-tät, technische Freiheiten)	Grundkonsens, aber externe Zielgruppe verlangt spürbare Au-thentizität
+Arbeitsbe-dingungen & Entwicklung	Flexibel, Weiterbildun-gen positiv, Karrierewege wenig strukturiert	Fokus auf spannende Aufgaben, moderne Technologien, Gestal-tungsfreiheit	Zielkonflikt: HR struk-turiert, IT-Zielgruppe experimentierfreudig
+Recruiting & Kommunika-tion	LinkedIn, Blog, Events; persönliche Kontakte wirksam	Hackathons, GitHub, Open-Source-Communities	Bestehende Kanäle erreichen technikaffine Talente nur einge-schränkt
+Herausforde-rungen	Budget, Regulierung, IT-Fachkräftemangel, Near-shoring als Chance	Kultur & Innovation entschei-dend, technische Signale (z. B. Linux)	Interne: Chancen wer-den positiv bewertet, extern: zählt Kultur, Technik, Innovation
+Digitalisie-rung & Inno-vation	Fokus auf Initiativen & Tools (Techradar)	Glaubwürdigkeit & Authentizi-tät zentral	Konsens über Potenzial, Diskrepanz bei wahrge-nommener Umsetzung
+Tabelle 2: Synthese der Interview Ergebnisse
+Intern wird die PostFinance im HR als auch bei der Angestellten IT-Fachkraft als at-traktiver Arbeitgeber Wahrgenomen. Bei den Extern IT-Arbeitsuchenden, bestehen jedoch Diskrepanzen. Sie erwarten technische Freiheit, echte Agilität und authentische Kommunikation. Grundsätzlich liegen die Unterschiede weniger in den Leistungen selbst, sondern in deren effektiven Umsetzung sowie Wahrnehmung.
+ 
+6	Diskussion der Ergebnisse
+Die Interviewergebnisse zeigen ein klares Bild: Die Wahrnehmung der PostFinance als Arbeitgeber unterscheidet sich stark zwischen internen und externen IT-Fachkräften. Ein Vergleich dieser Ergebnisse mit dem Stand der Forschung deckt systematische Lücken zwischen der Strategie der PostFinance und den Bedürfnissen der Zielgruppe auf.
+6.1	Unternehmenskultur: Authentizität wird extern in Frage gestellt
+Intern wird die Kultur als kollegial und positiv beschrieben. Dies entspricht der For-schung, die ein gutes Arbeitsumfeld als wichtigen intrinsischen Faktor einer EVP her-vorhebt (Bronlet et al., 2024). Der externe IT-Bewerber nimmt diese Kultur jedoch als "stark formalisiert" und bürokratisch wahr. Diese Diskrepanz zwischen Versprechen und wahrgenommener Realität ist kritisch, da die "gelebte Erfahrung" die Authentizität einer Arbeitgebermarke definiert (Saini, 2023). Seine Forderung nach "echter Agilität" und "technischen Freiheiten" zielt direkt auf organisationale Gerechtigkeit ab, welche laut Forschung einen entscheidenden Einfluss auf die Zufriedenheit hat (Sesari et al., 2025).
+6.2	Arbeitsbedingungen: Materielle Stärken, aber inhaltliche Schwächen
+Bei den Arbeitsbedingungen zeigt sich, dass die PostFinance bei materiellen Angebo-ten stark ist. Flexible Arbeitsmodelle, faire Löhne und gute Zusatzleistungen decken wichtige Basisfaktoren einer EVP ab und fördern die im IT-Sektor zentrale Work-Life-Balance (Anamta & Siddiqui, 2025; Sarabdeen et al., 2023).
+Die Schwäche liegt bei den intrinsischen, eudaimonischen Faktoren, die für IT-Fachkräfte besonders wichtig sind (Godliauskas & Šmite, 2025). Der von internen Mitarbeitenden beklagte Mangel an transparenten Karrierepfaden widerspricht dem zentralen Bedürfnis nach Entwicklung und Wachstum (Godliauskas & Šmite, 2025). Die Aussage des Job-Suchenden, dass "spannende Projekte" wichtiger sind als der Lohn, bestätigt, dass die Aufgabe selbst ("Job Role") der stärkste Treiber für die Be-werbungsabsicht ist (Verma et al., 2024). Die PostFinance scheint also die Rahmenbe-dingungen zu erfüllen, wird aber bei der inhaltlichen Attraktivität der Arbeit – ein Kernaspekt des psychologischen Empowerments – als unzureichend wahrgenommen (Panda & Sahoo, 2021).
+6.3	Kommunikation: Zielgruppe wird auf den falschen Kanälen gesucht
+Die genutzten Recruiting-Kanäle wie LinkedIn und Tech-Talks sind etablierte Instru-mente (Ajayi & Udeh, 2024). Die Aussagen des externen Bewerbers decken jedoch eine entscheidende Lücke auf: Die PostFinance ist auf den für Top-Talente wirklich relevanten Kanälen wie GitHub oder Open-Source-Communities kaum präsent. Seine Einschätzung, dass Stellenanzeigen auf Social Media "verzweifelt" wirken, zeigt, dass die Glaubwürdigkeit im Zeitalter des "Third-Party Employer Branding" von den Mit-arbeitenden selbst kommt, nicht von der Unternehmenswerbung (Dassler et al., 2022; Saini, 2023).
+Die PostFinance setzt zu sehr auf aktive Suche ("Push"), anstatt eine Anziehungskraft ("Pull") durch authentische Präsenz in Fach-Communitys zu erzeugen. Die Tatsache, dass der Bewerber selbst nach der Präsentation der EVPs skeptisch bleibt, unterstreicht die Forschungserkenntnis, dass ohne eine grundlegende organisationale Identifikation selbst gute Angebote ihre Wirkung verfehlen (Jun et al., 2023). Wenn die PostFinance nicht als glaubwürdiger "Tech-Arbeitgeber" wahrgenommen wird, verhallen ihre Ver-sprechen ungehört.
+
+ 
+7	7. Handlungsempfehlungen Nikola
+Die Untersuchung zeigt, dass die PostFinance eine solide Employer Value Proposition (EVP) besitzt, deren Potenzial zur Gewinnung von IT-Fachkräften jedoch ungenutzt bleibt. Um die Arbeitgeberattraktivität gezielt zu steigern, werden die folgenden fünf Handlungsempfehlungen abgeleitet.
+1. Eine spezifische IT-Employer Value Proposition entwickeln
+Die aktuelle EVP der PostFinance ist zu allgemein gehalten. Die Forschung bestätigt, dass eine undifferenzierte EVP an Wirksamkeit verliert; stattdessen ist eine zielgrup-penspezifische Anpassung entscheidend (Sarabdeen et al., 2023, Zitat zur Überprü-fung: "the study findings highlight the need to customize employer brand strategy across different demographic groups"). Eine spezifische IT-EVP sollte daher die tech-nologischen Herausforderungen und die Attraktivität der Aufgaben in den Mittelpunkt stellen, da dies für hochqualifizierte Talente der entscheidende Faktor für die Bewer-bungsabsicht ist (Verma et al., 2024, Zitat zur Überprüfung: "For Deloitte, Job Role (Tasks) and Organizational Culture came out to be significant components that affect the application intentions of applicants").
+2. Technologisches Storytelling nach aussen tragen
+Aktuell wird die PostFinance primär als Finanzdienstleister wahrgenommen. Um als Tech-Arbeitgeber glaubwürdig zu sein, müssen die internen technologischen Kompe-tenzen extern sichtbar gemacht werden. Technische Blogartikel, Open-Source-Beiträge und authentische Einblicke in die Arbeit der IT-Teams sind notwendig, um positive Signale an den Talentmarkt zu senden und die externe Reputation gezielt zu steuern (Thang & Trang, 2024b, Zitat zur Überprüfung: "social networks are currently accep-ted and widely used as a tool for employer branding due to their many advantages").
+3. Flexible Arbeitsmodelle ausbauen
+Während Homeoffice bereits Standard ist, erwarten IT-Fachkräfte heute erweiterte An-gebote wie Workation-Modelle. Solche Massnahmen sind zentrale Bestandteile der Work-Life-Balance, die im IT-Sektor eine hohe Priorität geniesst und massgeblich zur Attraktivität beiträgt (Anamta & Siddiqui, 2025, Zitat zur Überprüfung: "On the posi-tive side, flexible work arrangements, supportive organizational cultures, and increa-sed job autonomy significantly enhance WLB"). Die Einführung solcher Modelle wür-de die EVP gezielt für eine mobilitätsorientierte Zielgruppe schärfen.
+4. Transparente IT-Karrierepfade implementieren
+Die Interviews zeigen, dass die aktuelle Entwicklung auf Eigeninitiative basiert, was ein klares Bindungsrisiko darstellt. Die Forschung bestätigt, dass die Erfüllung eudai-monischer Bedürfnisse wie persönliches Wachstum und Kompetenzerweiterung für die Motivation von Wissensarbeitern entscheidend ist (Godliauskas & Šmite, 2025, Zitat zur Überprüfung: "eudaimonia... is experienced while fulfilling psychological needs for autonomy, competence, environmental mastery, growth..."). Die Implementierung eines klaren IT-Karriereframeworks mit definierten Stufen, Kompetenzprofilen und Entwicklungspfaden würde diese Lücke schliessen und die interne Mobilität fördern.
+5. Transformationen proaktiv und transparent kommunizieren
+Strategische Themen wie Nearshoring und KI erzeugen intern wie extern Unsicherhei-ten. Die Interviews deuten auf Ängste hinsichtlich der Arbeitsplatzsicherheit hin. In Transformationsprozessen ist eine offene, ehrliche und empathische Kommunikation entscheidend, um die Authentizität der Arbeitgebermarke zu wahren und die psycholo-gische Sicherheit der Mitarbeitenden zu gewährleisten (Rys et al., 2024, Zitat zur Überprüfung: "During a crisis, transparent internal communication may play a crucial role in delivering the employer brand among employees as it may foster engagement toward the brand").
+Zusammenfassend verfügt die PostFinance über eine solide Basis, muss ihre EVP je-doch gezielt auf die IT-Zielgruppe schärfen. Eine spezifische IT-EVP, technologiebe-zogenes Storytelling, erweiterte Flexibilität, klare Entwicklungspfade und eine trans-parente Kommunikation sind die zentralen Handlungsfelder. Die konsequente Umset-zung dieser Massnahmen hat das Potenzial, nicht nur die Arbeitgeberattraktivität zu steigern, sondern durch die Förderung von Sinnhaftigkeit und Wachstum eine hoff-nungsvolle Zukunftsperspektive für IT-Talente bei der PostFinance zu schaffen (Alti-zer & Ulrich, 2024, Zitat zur Überprüfung: "We propose a blueprint for hope with five principles ... Aspiration, efficacy/optimism, inventiveness, learning and role mo-delling").

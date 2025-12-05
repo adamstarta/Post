@@ -1,0 +1,179 @@
+body {
+    font-size: 12px;
+}
+
+.non-printable, .subheader .intro, .intro-img, .video, .benefits, .awards, .similar-jobs, footer, .more-infos, .btn.phone, .image {
+    display: none !important;
+}
+
+.print-only {
+    display: block;
+}
+
+header {
+    background: transparent;
+    padding: 20px 0 0;
+}
+
+.header.title {
+    color: #000000;
+    padding: 0;
+    max-width: 60%;
+    float: left;
+    margin-right: 50px;
+}
+
+.intro-text,.profile-tasks * ul, .salary p, section.benefits-mobile > ul, .jobinfos, .footer-text    {
+    font-size: 12px !important;
+    line-height: 1.5 !important;
+}
+
+.profile-tasks, .profile-tasks, .salary  {
+    margin-top: 20px !important;
+}
+
+h1, .subtitle {
+    font-size: 25px;
+    line-height: 1.2;
+    color:rgb(0, 75, 90);
+}
+
+h2, .header.title h2.subtitle {
+    font-size: 16px;
+    color:rgb(0, 75, 90);
+}
+
+.header.title h2.subtitle {
+    margin-top:20px;
+}
+
+.logo img {
+    padding: 0;
+    width: 200px;
+    height: auto;
+}
+
+.logo {
+    margin-bottom: 40px;
+    display: block;
+}
+
+.subheader * div, .subheader h3  {
+    color: #000000;
+}
+
+.jobinfos {
+    margin-top: 20px;
+}
+
+.jobinfos > * > .title {
+    font-family: "PostFinanceGrotesk-Light", sans-serif;
+    margin: 0px;
+    font-size: 12px;
+}
+
+.jobinfos .start, .jobinfos .workplace, .jobinfos .experience, .jobinfos .reference  {
+    border-top: 0.05em solid #000000;
+    padding:0px;
+}
+
+.jobinfos .reference {
+    border-bottom: 0.05em solid #000000;
+
+}
+
+.subheader {
+    padding: 0;
+    display: block;
+    margin-top:40px;
+}
+
+section.intro {
+    padding: 0;
+    clear: both;
+    margin-top: 40px;
+}
+
+.profile-tasks {
+    padding: 0;
+    margin-top: 40px;
+    margin-left: 0px;
+    margin-right: 0px;
+    max-width: 100%;
+}
+
+section.salary {
+    background-color: transparent !important;
+    padding: 0 !important;
+    margin: 0px;
+}
+
+.salary p {
+    color: #000000 !important;
+    font-weight: bold;
+}
+
+.benefits-mobile {
+    margin-top: 20px;
+}
+
+section.benefits-mobile > ul {
+    font-size: 20px;
+    line-height: 30px;
+    margin: 27px 0 0 -20px;
+}
+
+section.benefits-mobile * li {
+    padding-left: 15px;
+    margin-bottom: 10px;
+}
+
+.profile-tasks * li {
+    margin-bottom: 10px;
+}
+
+section.contact {
+    text-align: left !important;
+    margin-top: 20px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    gap: 0px;
+}
+
+.contact-person .name, .contact-person > div {
+    margin-top: 0;
+    font-size: 12px !important;
+    line-height: 1.2 !important;
+}
+
+.qr-code img {
+    max-width: 80px;
+    float: right;
+    margin-top: -80px;
+}
+
+#contrastModeSwitch {
+    display: none !important;
+}
+
+#usercentrics-root {
+    display: none !important;
+}
+
+.column {
+    padding: 0px;
+}
+
+.column div {
+    margin-top: 0px;
+}
+
+.phone {
+    font-size: 12px;
+    background: none;
+    padding-left: 0px;
+}
+
+section.contact h2 {
+    margin-bottom:5px;
+}
